@@ -1,2 +1,2 @@
 # Making-Community-Gardens-Count
-This is the repository for datasets and codes of the article "Making Community Gardens Count - Public Use and Institional Recognition Beyond Formal Green Areas"
+This repository contains the datasets and code used in the study “Making Community Gardens Count: Public Use and Institutional Recognition Beyond Formal Green Areas”.
